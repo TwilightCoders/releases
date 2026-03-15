@@ -8,8 +8,7 @@
             <item>
                 <title>Version 0.1.2</title>
                 <pubDate>Sat, 15 Mar 2026 01:22:53 +0000</pubDate>
-                <sparkle:version>3</sparkle:version>
-                <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+                <sparkle:version>0.1.2</sparkle:version>
                 <enclosure
                     url="https://github.com/TwilightCoders/releases/releases/download/upuppy-v0.1.2/upuppy-v0.1.2.zip"
                     sparkle:edSignature="QagzXrcT+6my8fnzpfcINnOK5HbOV/6gdnhhp7pf/lmQCoMEG7QXx4Ckd2BCHLBCngmo47Rxt+1k0vSZz8bnCg=="
@@ -20,8 +19,7 @@
             <item>
                 <title>Version 0.1.1</title>
                 <pubDate>Fri, 14 Mar 2026 00:22:53 +0000</pubDate>
-                <sparkle:version>2</sparkle:version>
-                <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+                <sparkle:version>0.1.1</sparkle:version>
                 <enclosure
                     url="https://github.com/TwilightCoders/releases/releases/download/upuppy-v0.1.1/upuppy-v0.1.1.zip"
                     sparkle:edSignature="zo0pw+XGhRgn8OzUkJTZLISpw3xTngOOEaa0BZoY4k4AtNBV5L2UfH/nYxc08EWXe+6Hl6LQTtP+J81b6okrDQ=="
@@ -32,8 +30,7 @@
             <item>
                 <title>Version 0.1.0</title>
                 <pubDate>Fri, 13 Mar 2026 19:05:02 +0000</pubDate>
-                <sparkle:version>1</sparkle:version>
-                <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+                <sparkle:version>0.1.0</sparkle:version>
                 <enclosure
                     url="https://github.com/TwilightCoders/releases/releases/download/upuppy-v0.1.0/upuppy-v0.1.0.zip"
                     sparkle:edSignature="IvcTkC9rwlhRD05asCSSl/QZAu2dpI/gl1MBAnuV6cRPkau9gGWC6J/RfUl0X4yPnOGTdhk6o7qUXfrkYEIyAg=="
