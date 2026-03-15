@@ -7,8 +7,8 @@
         <language>en</language>
             <item>
                 <title>Version 0.1.2</title>
-                <pubDate>Sun, 15 Mar 2026 00:43:32 +0000</pubDate>
-                <sparkle:version>1</sparkle:version>
+                <pubDate>Sat, 15 Mar 2026 01:22:53 +0000</pubDate>
+                <sparkle:version>3</sparkle:version>
                 <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
                 <enclosure
                     url="https://github.com/TwilightCoders/releases/releases/download/upuppy-v0.1.2/upuppy-v0.1.2.zip"
@@ -20,7 +20,7 @@
             <item>
                 <title>Version 0.1.1</title>
                 <pubDate>Fri, 14 Mar 2026 00:22:53 +0000</pubDate>
-                <sparkle:version>1</sparkle:version>
+                <sparkle:version>2</sparkle:version>
                 <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
                 <enclosure
                     url="https://github.com/TwilightCoders/releases/releases/download/upuppy-v0.1.1/upuppy-v0.1.1.zip"
