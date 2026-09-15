@@ -6,6 +6,17 @@
         <description>upuppy update feed</description>
         <language>en</language>
             <item>
+                <title>Version 0.3.0</title>
+                <pubDate>Tue, 15 Sep 2026 23:48:41 +0000</pubDate>
+                <sparkle:version>0.3.0</sparkle:version>
+                <enclosure
+                    url="https://github.com/TwilightCoders/releases/releases/download/upuppy-v0.3.0/upuppy-v0.3.0.zip"
+                    sparkle:edSignature="XjbyUPdK5PcA03naFV/I569RFN1ZyTTa2amW4qQcMlkTfJ5StjVA/HdgFeG37XebzlLLQpROiQvSZFjF6bmMAg=="
+                    length="7923643"
+                    type="application/octet-stream"
+                />
+            </item>
+            <item>
                 <title>Version 0.2.1</title>
                 <pubDate>Thu, 23 Apr 2026 15:10:02 +0000</pubDate>
                 <sparkle:version>0.2.1</sparkle:version>
