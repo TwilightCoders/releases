@@ -7,6 +7,19 @@
         <language>en</language>
             <item>
                 <title>Version 0.1.0</title>
+                <pubDate>Sat, 10 Oct 2026 15:55:00 +0000</pubDate>
+                <sparkle:version>204</sparkle:version>
+                <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+                <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+                <enclosure
+                    url="https://github.com/TwilightCoders/releases/releases/download/loma-v0.1.0-204/Loma-0.1.0-204.zip"
+                    sparkle:edSignature="+gGR4ApznWmZLUMzwfe2X/2Lno6bu/DI7b+egowui8yH7dm0JDqHmD3LEJfvK3PlrdDPGNXb4sIBz7+zj/+NAQ=="
+                    length="16206031"
+                    type="application/octet-stream"
+                />
+            </item>
+            <item>
+                <title>Version 0.1.0</title>
                 <pubDate>Thu, 08 Oct 2026 17:57:12 +0000</pubDate>
                 <sparkle:version>194</sparkle:version>
                 <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
