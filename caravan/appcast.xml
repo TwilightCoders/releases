@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Caravan</title>
+        <item>
+            <title>0.3.12</title>
+            <pubDate>Thu, 22 Oct 2026 18:37:31 -0600</pubDate>
+            <sparkle:version>20261022183528</sparkle:version>
+            <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[
+### Changed
+- New apps are full, signed copies of the shell again (stubs on the shared runtime stay available with `CaravanCreationMode stub`). Each app is its own bundle, so notifications and camera, microphone and location prompts carry the app's own name and icon instead of "Caravan Runtime".
+- A web app's first notification asks macOS for that app's own notification permission, even when the site was already allowed before the app was converted.
+- Webapps: **Edit Address** (⌘L) opens the address in the title bar, over the window title, with the full URL selected. Deleting stops at the site's origin; Return goes there, Escape or a click elsewhere closes it.
+- **Advanced → Rebuild App Manifest** also repairs the Caravan Runtime, and shows its progress in a sheet.
+- Updates come from the public TwilightCoders/releases repository. 0.3.10 and earlier look for updates in a private repository and cannot reach them: install 0.3.12 by hand once; later versions arrive through **Check for Updates…**.
+
+### Added
+- **Advanced → Convert Apps to Standalone…** and a right-click **Convert to Standalone App…** turn stub apps into full apps, keeping name, icon, bundle id, logins and settings. The stub is archived first (`~/Library/Application Support/Caravan/Backups`) and a failed conversion is undone. An app that is running converts when you quit it. `Caravan.app --convert-to-standalone "Name,Other Name"` converts named apps at launch.
+- Webapps keep each tab's back / forward history across relaunches, and Back / Forward are dimmed when there is nowhere to go.
+- Webapps open new windows where you last left one, instead of centered.
+
+### Fixed
+- Find on Page (⌘F) no longer blanks the page: the find bar painted its background over everything below it, and a match the page had hidden could scroll the page away.
+- A page's `alert()` no longer freezes the page: the page keeps drawing behind the alert instead of going blank.
+- Stub apps launch again after a macOS update (error -10674): Caravan re-registers the runtime when macOS has forgotten it.
+
+]]></description>
+            <enclosure url="https://github.com/TwilightCoders/releases/releases/download/caravan-v0.3.12/Caravan-0.3.12.zip" length="10023130" type="application/octet-stream" sparkle:edSignature="NLcjWplJx6eUeyriqwXrKvviPXo6pw72unMHoXS9j+pmT+yLUqKt7eV8Y1sTrN7tGqdJAKQg3K66xXzWtdNODQ=="/>
+        </item>
+    </channel>
+</rss>
