@@ -6,6 +6,19 @@
         <description>Loma update feed</description>
         <language>en</language>
             <item>
+                <title>Version 0.6.3</title>
+                <pubDate>Fri, 23 Oct 2026 17:49:54 +0000</pubDate>
+                <sparkle:version>249</sparkle:version>
+                <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+                <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+                <enclosure
+                    url="https://github.com/TwilightCoders/releases/releases/download/loma-v0.6.3-249/Loma-0.6.3-249.zip"
+                    sparkle:edSignature="/O3vYE6ulW7elSmHQiMwOycndQEGzwOrio9TfBGk0VvE0mhbQUdGEFLVrpqV3HchP1M5fyjhV3uwp4aowod5CQ=="
+                    length="17946350"
+                    type="application/octet-stream"
+                />
+            </item>
+            <item>
                 <title>Version 0.6.2</title>
                 <pubDate>Fri, 23 Oct 2026 00:49:35 +0000</pubDate>
                 <sparkle:version>248</sparkle:version>
